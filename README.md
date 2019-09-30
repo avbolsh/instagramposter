@@ -29,7 +29,7 @@ __fetch\_hubble\_list.py__ - allow to get images IDs from hubble colletion in st
 
 __fetch\_hybble.py__ - allow dowload images from hubble.com. You have to add arguments: id(s) images
 
-	python fetch\_hubble.py 1 2 3 10 
+	python fetch_hubble.py 1 2 3 10 
 
 ... or you may use script fetch\_hubble\_list.py for download all images from hubble\`s colliction
 	
@@ -37,7 +37,7 @@ __fetch\_hybble.py__ - allow dowload images from hubble.com. You have to add arg
 
 __crop\_it.py__ - allow crop images, you have to add arguments: directory with images, script crops all images from diretory
 
-	python crop\_it.py ~/devproject_3/images
+	python crop_it.py ~/devproject_3/images
 
 __instaposter.py__ allow post all images from dirtctory
 
